@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class SimpleSumAldebaranExecuto {
+public class SimpleSumAldebaranExecutor {
 
     public static void main(String[] args) throws Exception {
 
