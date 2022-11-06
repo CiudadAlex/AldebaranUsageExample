@@ -15,7 +15,7 @@ public class SimpleSumAldebaranExecutor {
         final String applicationName = "SimpleSum";
         final String password = "Erodn20fwcSAKsrd**&23";
         final List<String> listLocationAgents = Arrays.asList("localhost:8080");
-        final String pathJARs = "";
+        final String pathJARs = "./target";
 
         List<Callable<?>> listJob = new ArrayList<>();
 
